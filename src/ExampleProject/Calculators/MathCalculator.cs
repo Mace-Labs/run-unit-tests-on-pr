@@ -6,4 +6,5 @@ public class MathCalculator
     public double Subtract(double x, double y) => x - y;
     public double Multiply(double x, double y) => x * y;
     public double Divide(double x, double y) => x / y;
+    public double Modulo(double x, double y) => x % y;
 }
